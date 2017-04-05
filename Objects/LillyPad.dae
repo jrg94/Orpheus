@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 2.69.0 r60995</authoring_tool>
+    </contributor>
+    <created>2014-04-02T13:27:10</created>
+    <modified>2014-04-02T13:27:10</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_images>
+    <image id="lily-c_png" name="lily-c_png">
+      <init_from>lily-c.png</init_from>
+    </image>
+    <image id="lily-a_png" name="lily-a_png">
+      <init_from>lily-a.png</init_from>
+    </image>
+    <image id="lily-n_png" name="lily-n_png">
+      <init_from>lily-n.png</init_from>
+    </image>
+    <image id="leaves-c_png" name="leaves-c_png">
+      <init_from>leaves-c.png</init_from>
+    </image>
+  </library_images>
+  <library_effects>
+    <effect id="lily-effect">
+      <profile_COMMON>
+        <newparam sid="leaves-c_png-surface">
+          <surface type="2D">
+            <init_from>leaves-c_png</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="leaves-c_png-sampler">
+          <sampler2D>
+            <source>leaves-c_png-surface</source>
+          </sampler2D>
+        </newparam>
+        <newparam sid="lily-c_png-surface">
+          <surface type="2D">
+            <init_from>lily-c_png</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="lily-c_png-sampler">
+          <sampler2D>
+            <source>lily-c_png-surface</source>
+          </sampler2D>
+        </newparam>
+        <newparam sid="lily-a_png-surface">
+          <surface type="2D">
+            <init_from>lily-a_png</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="lily-a_png-sampler">
+          <sampler2D>
+            <source>lily-a_png-surface</source>
+          </sampler2D>
+        </newparam>
+        <newparam sid="lily-n_png-surface">
+          <surface type="2D">
+            <init_from>lily-n_png</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="lily-n_png-sampler">
+          <sampler2D>
+            <source>lily-n_png-surface</source>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <texture texture="leaves-c_png-sampler" texcoord="UVMap"/>
+            </diffuse>
+            <specular>
+              <texture texture="lily-c_png-sampler" texcoord="UVMap"/>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <transparent>
+              <texture texture="lily-a_png-sampler" texcoord="UVMap"/>
+            </transparent>
+            <transparency>
+              <float sid="transparency">0</float>
+            </transparency>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+          <extra>
+            <technique profile="FCOLLADA">
+              <bump>
+                <texture texture="lily-n_png-sampler" texcoord="UVMap"/>
+              </bump>
+            </technique>
+          </extra>
+        </technique>
+        <extra>
+          <technique profile="GOOGLEEARTH">
+            <double_sided>1</double_sided>
+          </technique>
+        </extra>
+      </profile_COMMON>
+      <extra><technique profile="MAX3D"><double_sided>1</double_sided></technique></extra>
+    </effect>
+  </library_effects>
+  <library_materials>
+    <material id="lily-material" name="lily">
+      <instance_effect url="#lily-effect"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="lily-mesh" name="lily">
+      <mesh>
+        <source id="lily-mesh-positions">
+          <float_array id="lily-mesh-positions-array" count="12">1 1 0 1 -1 0 -1 -0.9999998 0 -0.9999997 1 0</float_array>
+          <technique_common>
+            <accessor source="#lily-mesh-positions-array" count="4" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="lily-mesh-normals">
+          <float_array id="lily-mesh-normals-array" count="6">0 0 1 0 0 1</float_array>
+          <technique_common>
+            <accessor source="#lily-mesh-normals-array" count="2" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="lily-mesh-map-0">
+          <float_array id="lily-mesh-map-0-array" count="12">0 0 1 0 0 1 1 0 1 1 0 1</float_array>
+          <technique_common>
+            <accessor source="#lily-mesh-map-0-array" count="6" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="lily-mesh-vertices">
+          <input semantic="POSITION" source="#lily-mesh-positions"/>
+        </vertices>
+        <polylist material="lily-material" count="2">
+          <input semantic="VERTEX" source="#lily-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#lily-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#lily-mesh-map-0" offset="2" set="0"/>
+          <vcount>3 3 </vcount>
+          <p>0 0 0 3 0 1 1 0 2 3 1 3 2 1 4 1 1 5</p>
+        </polylist>
+      </mesh>
+      <extra><technique profile="MAYA"><double_sided>1</double_sided></technique></extra>
+    </geometry>
+  </library_geometries>
+  <library_controllers/>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="lily" name="lily" type="NODE">
+        <matrix sid="transform">0.2324778 0 0 3.292377 0 0.2324778 0 -0.6522281 0 0 0.2324778 0.1284819 0 0 0 1</matrix>
+        <instance_geometry url="#lily-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="lily-material" target="#lily-material">
+                <bind_vertex_input semantic="UVMap" input_semantic="TEXCOORD" input_set="0"/>
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>

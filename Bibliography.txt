@@ -1,0 +1,470 @@
+Sounds:
+
+Uploader	qubodup
+Title		Water Splash
+Type		Flac (.flac)
+Duration	00:02:000
+Filesize	200.3 KB
+Samplerate	48000.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Uploader	DanielsonIII
+Title		Rumble
+Type		Wave (.wav)
+Duration	00:30:236
+Filesize	10.2 MB
+Samplerate	44100.0 Hz
+Bitdepth	32 bit
+Channels	Stereo
+
+Uploader	Quistard
+Title		Pop
+Type		Wave (.wav)
+Duration	00:00:489
+Filesize	69.0 KB
+Samplerate	48000.0 Hz
+Bitdepth	24 bit
+Channels	Mono
+
+Uploader	nanity05
+Title		Scream
+Type		Wave (.wav)
+Duration	00:01:486
+Filesize	256.0 KB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Uploader	mtadder
+Title		Port
+Type		Wave (.wav)
+Duration	00:00:506
+Filesize	43.7 KB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Mono
+
+Uploader	stereostereo
+Title		Apple
+Type		aif (.aif)
+Duration	00:00:500
+Filesize	142.6 KB
+Samplerate	48000.0 Hz
+Bitdepth	24 bit
+Channels	Stereo
+
+Uploader	dmlandrum
+Title		Port2
+Type		Wave (.wav)
+Duration	00:00:112
+Filesize	9.7 KB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Mono
+
+Uploader	EverHeat
+Title		Key
+Type		Wave (.wav)
+Duration	00:00:665
+Filesize	87.4 KB
+Samplerate	44100.0 Hz
+Bitdepth	24 bit
+Channels	Mono
+
+Uploader	fins
+Title		ScaleE
+Type		Wave (.wav)
+Duration	00:02:426
+Filesize	418.6 KB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Uploader	fins
+Title		ScaleC
+Type		Wave (.wav)
+Duration	00:02:310
+Filesize	398.6 KB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Uploader	fins
+Title		ScaleG
+Type		Wave (.wav)
+Duration	00:02:461
+Filesize	424.6 KB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Uploader	pitx
+Title		String
+Type		Wave (.wav)
+Duration	00:02:577
+Filesize	222.1 KB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Mono
+
+Uploader	thatjeffcarter
+Title		Angel
+Type		Wave (.wav)
+Duration	00:31:905
+Filesize	5.8 MB
+Samplerate	48000.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Uploader	Quistard
+Title		Splash
+Type		Wave (.wav)
+Duration	00:00:713
+Filesize	128.7 KB
+Samplerate	44100.0 Hz
+Bitdepth	32 bit
+Channels	Mono
+
+Uploader	rockerfaerie
+Title		MusicBox1
+Type		Wave (.wav)
+Duration	00:45:434
+Filesize	7.6 MB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Uploader	MAJ061785
+Title		Jump
+Type		aif (.aif)
+Duration	00:01:800
+Filesize	1016.5 KB
+Samplerate	48000.0 Hz
+Bitdepth	16 bit
+Channels	6
+
+Uploader 	D W
+Title		Menu
+Type		Wave (.wav)
+Duration	00:00:960
+Filesize	165.4 KB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Uploader	sandyrb
+Title		Level2Doors
+Type		Wave (.wav)
+Duration	00:07:986
+Filesize	1.3 MB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Uploader	DrZoom
+Title		DoorUnlock
+Type		Wave (.wav)
+Duration	00:01:038
+Filesize	268.4 KB
+Samplerate	44100.0 Hz
+Bitdepth	24 bit
+Channels	Stereo
+
+Uploader	JarredGibb
+Title		ButtonPress
+Type		Wave (.wav)
+Duration	00:00:398
+Filesize	112.1 KB
+Samplerate	48000.0 Hz
+Bitdepth	24 bit
+Channels	Stereo
+
+Uploader	cloudyeyetavern
+Title		Thud
+Type		Wave (.wav)
+Duration	00:00:566
+Filesize	97.7 KB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Uploader	sonidor
+Title		Creeper
+Type		Wave (.wav)
+Duration	00:24:000
+Filesize	4.0 MB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Uploader	Flasher21
+Title 		Splat
+Type		Wave (.wav)
+Duration	00:00:453
+Filesize	39.1 KB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Mono
+
+Uploader	snaginneb
+Title		Grunt
+Type		AIFF (.aiff)
+Duration	00:01:486
+Filesize	257.0 KB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Uploader	OwlStorm
+Title		Hard Female Footstep
+Type		Wave (.wav)
+Duration	00:00:487
+Filesize	46.2 KB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Mono
+
+Uploader	nextmaking
+Title		FootstepsLevel1
+Type		aif (.aif)
+Duration	00:09:793
+Filesize	1.8 MB
+Samplerate	48000.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Uploader	jorickhoofd
+Title		Woodpile
+Type		AIFF (.aiff)
+Duration	00:01:801
+Filesize	311.5 KB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Uploader	duckduckpony
+Title		Rustle
+Type		Wave (.wav)
+Duration	00:43:050
+Filesize	23.6 MB
+Samplerate	96000.0 Hz
+Bitdepth	24 bit
+Channels	Stereo
+
+Uploader	Aiwha
+Title		Ding
+Type		Wave (.wav)
+Duration	00:03:379
+Filesize	523.3 KB
+Samplerate	48000.0 Hz
+Bitdepth	24 bit
+Channels	Mono
+
+Uploader	looijenga
+Title		Birds
+Type		Wave (.wav)
+Duration	02:15:680
+Filesize	24.8 MB
+Samplerate	48000.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Uploader	venaportae
+Title		Bees
+Type		Wave (.wav)
+Duration	01:47:102
+Filesize	18.0 MB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Uploader	Ephemeral_Rift
+Title		Fountain
+Type		Wave (.wav)
+Duration	01:00:585
+Filesize	10.2 MB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Uploader	uEffects
+Title		KeyBoard
+Type		Wave (.wav)
+Duration	00:00:167
+Filesize	19.9 KB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Mono
+
+Uploader	Petr2010
+Title		Float
+Type		Wave (.wav)
+Duration	00:07:349
+Filesize	1.2 MB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Uploader	DrMinky
+Title		Lever
+Type		Wave (.wav)
+Duration	00:01:601
+Filesize	101.8 KB
+Samplerate	32000.0 Hz
+Bitdepth	16 bit
+Channels	Mono
+
+Uploader	NHumphrey
+Title		GarageDoor
+Type		Wave (.wav)
+Duration	00:13:973
+Filesize	3.8 MB
+Samplerate	48000.0 Hz
+Bitdepth	24 bit
+Channels	Stereo
+
+Uploader	JimiMod
+Title		Hades
+Type		AIFF (.aiff)
+Duration	00:23:917
+Filesize	4.0 MB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Uploader	smokum
+Title		Dogs
+Type		Wave (.wav)
+Duration	00:01:612
+Filesize	139.0 KB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Mono
+
+Uploader	babagua
+Title		Cats
+Type		Ogg Vorbis (.ogg)
+Duration	00:22:913
+Filesize	600.1 KB
+Bitrate		689 kbps
+Channels	Mono
+
+Uploader	cajo
+Title		Birds
+Type		Wave (.wav)
+Duration	00:02:914
+Filesize	506.1 KB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Uploader	HerbertBoland
+Title		Sheep
+Type		Wave (.wav)
+Duration	00:17:010
+Filesize	2.9 MB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Uploader	tombola
+Title		MusicBoxRoom2
+Type		Wave (.wav)
+Duration	00:00:518
+Filesize	89.4 KB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Uploader	jorickhoofd
+Title		DogBark
+Type		Wave (.wav)
+Duration	00:00:452
+Filesize	78.8 KB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Uploader	cameronmusic
+Title		CatMeow
+Type		Wave (.wav)
+Duration	00:02:187
+Filesize	756.2 KB
+Samplerate	44100.0 Hz
+Bitdepth	32 bit
+Channels	Stereo
+
+Uploader	ReadeOnly
+Title		BirdChirp
+Type		Wave (.wav)
+Duration	00:00:783
+Filesize	134.9 KB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Uploader	reinsamba
+Title		SheepNoise
+Type		Wave (.wav)
+Duration	00:28:745
+Filesize	4.8 MB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Uploader	JarredGibb
+Title		PigSnort
+Type		Wave (.wav)
+Duration	00:01:546
+Filesize	449.6 KB
+Samplerate	96000.0 Hz
+Bitdepth	24 bit
+Channels	Mono
+
+Uploader	JarredGibb
+Title		TurkeyGobble
+Type		Wave (.wav)
+Duration	00:00:908
+Filesize	264.5 KB
+Samplerate	96000.0 Hz
+Bitdepth	24 bit
+Channels	Mono
+
+Uploader	Jasher70
+Title		ElephantScream
+Type		Wave (.wav)
+Duration	00:01:497
+Filesize	64.5 KB
+Samplerate	22050.0 Hz
+Bitdepth	16 bit
+Channels	Mono
+
+Uploader	confusion_music
+Title		CowMoo
+Type		Wave (.wav)
+Duration	00:01:961
+Filesize	338.0 KB
+Samplerate	44100.0 Hz
+Bitdepth	16 bit
+Channels	Stereo
+
+Objects:
+
+Greek Bench - ahedov (Blendswap.com)
+Fountain - Roachman911 (Blendswap.com)
+Skeleton - knight725 (Blendswap.com)
+Trees and Leaves - Eugene Kiver (Blendswap.com)
+Wooden Logs - Rocz3D (Blendswap.com)
+Stumps - anonymous (Blendswap.com)
+Mushrooms - graphix (Blendswap.com)
+Treble Clef - DaveC (Blendswap.com)
+
+Textures:
+
+Grass, Dark Stone, Red Stone, Sky Dome, Snow, All Portals - tutorialsforblender3d.com
+Grass Plane - ThaTimst3r (YouTube)
+Wooden Door - Jacob Cortes Ferreira (cgtextures.com)
+Ornate Door - Thierry Hof (cgtextures.com)
+Metal Door - Wojtek Starak (cgtextures.com)
+Landscape - CGTextures
